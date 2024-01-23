@@ -12,14 +12,5 @@
         "UpdateSource":"SteamCMD",
         "UpdateSourceData":"1007",
         "UpdateSourceTarget":"2394010/Pal/Binaries/Win64"
-    },
-    {
-        "UpdateStageName":"Config Template Download",
-        "UpdateSourcePlatform":"All",
-        "UpdateSource":"FetchURL",
-        "UpdateSourceData":"https://github.com/zaraki1311/TestTemp/blob/main/palworldtemplatesettings.ini",
-        "UpdateSourceTarget":"{{$FullRootDir}}",
-        "UpdateSourceArgs":"AMP_PalWorldSettings.ini",
-        "OverwriteExistingFiles":true
     }
 ]
