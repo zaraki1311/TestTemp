@@ -17,7 +17,7 @@
         "UpdateStageName":"Config Template Download",
         "UpdateSourcePlatform":"All",
         "UpdateSource":"FetchURL",
-        "UpdateSourceData":"https://github.com/zaraki1311/TestTemp/blob/main/palworldtemplatesettings.ini",
+        "UpdateSourceData":"https://github.com/zaraki1311/TestTemp/blob/a965874e0e58fdf8d3e3b9d815fbaa4a3e041914/palworldtemplatesettings.ini",
         "UpdateSourceTarget":"{{$FullRootDir}}",
         "UpdateSourceArgs":"AMP_PalWorldSettings.ini",
         "OverwriteExistingFiles":true
