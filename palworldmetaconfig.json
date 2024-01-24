@@ -1,13 +1,13 @@
 [	
     {
-        "ConfigFile":"Pal/Saved/Config/WindowsServer/PalWorldSettings.ini",
+        "ConfigFile":"Pal/Saved/Config/WindowsServer/PalWorldSettings.txt",
         "AutoMap":true,
-        "ConfigType":"ini",
+        "ConfigType":"template",
         "ConfigFileTemplate":"palworld/AMP_PalWorldSettings.ini"
     },
     {
-        "ConfigFile":"Pal/Saved/Config/LinuxServer/PalWorldSettings.ini",
+        "ConfigFile":"Pal/Saved/Config/LinuxServer/PalWorldSettings.txt",
         "AutoMap":true,
-        "ConfigType":"ini",
+        "ConfigType":"template",
         "ConfigFileTemplate":"palworld/AMP_PalWorldSettings.ini"
     }
